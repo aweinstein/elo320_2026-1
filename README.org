@@ -2,6 +2,11 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 
 * Tareas
 - [[https://github.com/aweinstein/elo320_2026-1/tree/main/tarea_1][Código para tarea 1.]]
-* 20250324
+* 20260324
 - [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_lista_simple_1.c][ex_lista_simple_1.c]]
-
+* 20260326
+- [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_lista_simple_2.c][ex_lista_simple_2.c]]
+- [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_lista_simple_3.c][ex_lista_simple_3.c]]
+* 20260331
+- [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_stack.c][ex_lista_stack.c]]
+  
