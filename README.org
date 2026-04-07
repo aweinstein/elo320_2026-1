@@ -10,3 +10,6 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 * 20260331
 - [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_stack.c][ex_lista_stack.c]]
   
+* 20260402
+- [[https://github.com/aweinstein/elo320_2026-1/blob/main/ex_buffer_circular.c][ex_buffer_circular.c]]
+
