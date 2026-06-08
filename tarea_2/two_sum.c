@@ -49,7 +49,7 @@ TwoSum twosum(int32_t *nums, int16_t count, int32_t target)
                 r.ok = 1;
                 return r;
             }
-            i += 1;
+            i = i + step;
         }
     }
     return r;
